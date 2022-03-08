@@ -1,5 +1,5 @@
 # Belief-in-Supernatural-Evil-and-Guns-Analysis
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikolasMoatsos/Belief-in-Supernatural-Evil-and-Guns-Analysis/blob/master/supernatural_evil_guns_analysis.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikolasMoatsos/Belief-in-Supernatural-Evil-and-Guns-Analysis/blob/main/supernatural_evil_guns_analysis.ipynb)
 
 This project was implemented during the course "Applied Machine Learning", offered by the Department of Management Science & Technology of the Athens University of Economics and Business.
 
