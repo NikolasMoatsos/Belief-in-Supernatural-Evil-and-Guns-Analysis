@@ -13,7 +13,7 @@ The study tries to link the belief in supernatural evil with a range of gun poli
 ## Data
 The dataset is based on the responses of *The Wave Four of the Baylor Religion Survey (BRS)*, which was conducted in January of 2014. This survey took a random sample of 1572 non-institutionalized respondents with ages from 18 and over, who reside in the continental United States.
 
-The dataset is stored in The Association of Religion Data Archives (the ARDA) and can be found [here](https://www.thearda.com/Archive/Files/Descriptions/BRS2014.asp).
+The dataset is stored in *The Association of Religion Data Archives (the ARDA)* and can be found [here](https://www.thearda.com/Archive/Files/Descriptions/BRS2014.asp).
 
 ## Technologies
 The project was implemented with *Python 3.9.2* and runs on *Jupyter Notebook*. Also includes the following packages: 
