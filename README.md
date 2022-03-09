@@ -10,6 +10,8 @@ Christopher G. Ellison, Benjamin Dowd-Arrow, Amy M. Burdette, Pablo E. Gonzalez,
 
 The study tries to link the belief in supernatural evil with a range of gun policy attitudes, by testing theoretical arguments regarding this linkage.
 
+In this project various methods were used to study the association, namely logistic regression, linear regression and different decision trees.
+
 ## Data
 The dataset is based on the responses of *The Wave Four of the Baylor Religion Survey (BRS)*, which was conducted in January of 2014. This survey took a random sample of 1572 non-institutionalized respondents with ages from 18 and over, who reside in the continental United States.
 
